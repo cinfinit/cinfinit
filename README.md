@@ -10,7 +10,7 @@
 
 
 ## Current Projects
-
+-  **[next-component-analyzer](https://www.npmjs.com/package/next-component-analyzer)** - CLI tool that analyzes Next.js components and suggests whether they should be Server or Client components.
 -  **[npm-telemetry](https://www.npmjs.com/package/npm-telemetry)** - See what your npm dependencies are really doing — track file access, network calls, environment reads, dynamic code, and postinstall scripts before installing.
 -  **[@cinfinit/hookflow](https://www.npmjs.com/package/@cinfinit/hookflow)** - A deterministic, multi-package hook orchestration system for monorepos
 -  **[async-immer](https://www.npmjs.com/package/async-immer)** - async-immer lets you write mutable-looking code while safely handling async state updates, preventing race conditions and stale writes by design.
