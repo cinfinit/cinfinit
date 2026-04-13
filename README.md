@@ -10,6 +10,8 @@
 
 
 ## Current Projects
+
+-  **[multi-env-cli](https://www.npmjs.com/package/multi-env-cli)** - Hot-editable multi-instance environment manager for Node.js projects.
 -  **[next-component-analyzer](https://www.npmjs.com/package/next-component-analyzer)** - CLI tool that analyzes Next.js components and suggests whether they should be Server or Client components.
 -  **[npm-telemetry](https://www.npmjs.com/package/npm-telemetry)** - See what your npm dependencies are really doing — track file access, network calls, environment reads, dynamic code, and postinstall scripts before installing.
 -  **[@cinfinit/hookflow](https://www.npmjs.com/package/@cinfinit/hookflow)** - A deterministic, multi-package hook orchestration system for monorepos
@@ -44,5 +46,7 @@
 [![Twitter](https://img.shields.io/badge/-@cinfinitedev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/cinfinitedev)
 [![LinkedIn](https://img.shields.io/badge/-rcinfinity-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcinfinity)
 [![GitHub](https://img.shields.io/badge/-cinfinit-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cinfinit)
+[![Dev.to](https://img.shields.io/badge/-cinfiniteDev-0077B5?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/cinfinitedev_engine)
+[![YouTube](https://img.shields.io/badge/-cinfiniteDev-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@CinfiniteDev)
 
 ---
