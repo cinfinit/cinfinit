@@ -41,6 +41,13 @@
 -  **[react-prop-inspector](https://www.npmjs.com/package/react-prop-inspector)** - A React component that wraps your components to provide an on-page, toggleable props inspector table. Useful for debugging and understanding the props being passed to a component in real-time.
 -  **[taskmanagercli](https://www.npmjs.com/package/taskmanagercli)** - Simple Command line Todo
 
+## VScode extensions
+- **[GitHub User Manager](https://marketplace.visualstudio.com/items?itemName=cinfinite.gh-user-manager)** - lets you juggle multiple GitHub identities like a pro (or wizard)
+- **[Chakra UI Props Info](https://marketplace.visualstudio.com/items?itemName=cinfinite.chakra-ui-props-info)** - provides information about Chakra UI components in the form of a tooltip.
+- **[Route Check](https://marketplace.visualstudio.com/items?itemName=cinfinite.route-check-vscode)** - checks the status of links (HTTP status codes) for files and individual URLs.
+- **[VSCode Scaffold](https://marketplace.visualstudio.com/items?itemName=cinfinite.vscode-scaffold)** - scaffold a project structure from a YAML file
+- **[Ping a Break](https://marketplace.visualstudio.com/items?itemName=cinfinite.pingabreak)** - simple reminder tool built for Visual Studio Code that helps you take breaks by tracking your activity and idle time
+
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@cinfinitedev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/cinfinitedev)
