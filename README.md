@@ -1,4 +1,4 @@
-# Hi, I'm Cinfinit 👋
+# Hi, I'm [Cinfinit](https://cinfinitedev.surge.sh) 👋
 
 **Probably not overengineering it.**
 
