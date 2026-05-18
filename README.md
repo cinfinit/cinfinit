@@ -10,7 +10,9 @@
 
 
 ## Current Projects
-
+-  **[age-install](https://www.npmjs.com/package/age-install)** - Delay npm package installations until they reach a minimum age, protecting against supply chain attacks.
+-  **[GoBadge](https://gobadge.vercel.app/)** - GoBadge gives you styled badges for Go modules 
+-  **[gowatcher](https://github.com/cinfinit/gowatcher)** - Zero-config live reload library for Go apps and tests. Embed directly into your app
 -  **[multi-env-cli](https://www.npmjs.com/package/multi-env-cli)** - Hot-editable multi-instance environment manager for Node.js projects.
 -  **[next-component-analyzer](https://www.npmjs.com/package/next-component-analyzer)** - CLI tool that analyzes Next.js components and suggests whether they should be Server or Client components.
 -  **[npm-telemetry](https://www.npmjs.com/package/npm-telemetry)** - See what your npm dependencies are really doing — track file access, network calls, environment reads, dynamic code, and postinstall scripts before installing.
@@ -47,6 +49,16 @@
 - **[Route Check](https://marketplace.visualstudio.com/items?itemName=cinfinite.route-check-vscode)** - checks the status of links (HTTP status codes) for files and individual URLs.
 - **[VSCode Scaffold](https://marketplace.visualstudio.com/items?itemName=cinfinite.vscode-scaffold)** - scaffold a project structure from a YAML file
 - **[Ping a Break](https://marketplace.visualstudio.com/items?itemName=cinfinite.pingabreak)** - simple reminder tool built for Visual Studio Code that helps you take breaks by tracking your activity and idle time
+
+## Writings
+- **[From pnpm's Cool Feature to npm's Life jacket: The (somewhat accidental) birth of age-install](https://dev.to/cinfinitedev_engine/from-pnpms-cool-feature-to-npms-life-jacket-the-somewhat-accidental-birth-of-age-install-49pe)** - A CLI tool that makes npm wait before installing fresh packages to protect against supply chain attacks
+- **[The Story of GoBadge: How It All Started](https://dev.to/cinfinitedev_engine/the-story-of-gobadge-how-it-all-started-1bo9)** - A journey from a simple idea to a badge service for Go modules
+- **[The Story Behind GoWatcher: A Tale of F5 Fatigue and Code Flow](https://dev.to/cinfinitedev_engine/the-story-behind-gowatcher-a-tale-of-f5-fatigue-and-code-flow-hf)** - An embeddable live-reload library for Go that ends F5 fatigue
+- **[When a Simple Click Gets in the Way: A Tiny UX Detail That Matters](https://dev.to/cinfinitedev_engine/when-a-simple-click-gets-in-the-way-a-tiny-ux-detail-that-matters-47jb)** - A lesson on why overloading a single element with multiple interactions creates friction
+- **[Fixing Ola Web's Cramped Map and Why Small UX Gaps Ship to Production](https://dev.to/cinfinitedev_engine/fixing-ola-webs-cramped-map-and-why-small-ux-gaps-ship-to-production-4iob)** - A bookmarklet that expands Ola's map and explores why small UX gaps go unnoticed
+- **[From Chaos to Control: Multiple Node.js Environments with Multi-Env CLI](https://dev.to/cinfinitedev_engine/from-chaos-to-control-multiple-nodejs-environments-with-multi-env-cli-cai)** - Stop juggling .env files - run multiple Node.js environments side-by-side with hot-reload support
+- **[Next Component Analyzer: Stop Guessing if Your Components Should Be Server or Client](https://dev.to/cinfinitedev_engine/next-component-analyzer-stop-guessing-if-your-components-should-be-server-or-client-3i34)** - An AST-based tool to analyze Next.js components and classify them as Server or Client
+- **[Dependencies Should Not Be Silent: Inspect What Your npm Packages Actually Do](https://dev.to/cinfinitedev_engine/dependencies-should-not-be-silent-inspect-what-your-npm-packages-actually-do-5gdf)** - A CLI that inspects npm packages and reports their capabilities and permissions
 
 ## Connect
 
