@@ -10,8 +10,10 @@
 
 
 ## Current Projects
--  **[age-install](https://www.npmjs.com/package/age-install)** - Delay npm package installations until they reach a minimum age, protecting against supply chain attacks.
+- **[RBI Doc Search](https://cinfinite-docs-search.hf.space/)** - A searchable index of RBI (Reserve Bank of India) notifications and circulars
+- **[Soothe](https://soothee.vercel.app)** - A privacy-first, local-only cycle tracking progressive web app
 -  **[GoBadge](https://gobadge.vercel.app/)** - GoBadge gives you styled badges for Go modules 
+-  **[age-install](https://www.npmjs.com/package/age-install)** - Delay npm package installations until they reach a minimum age, protecting against supply chain attacks.
 -  **[gowatcher](https://github.com/cinfinit/gowatcher)** - Zero-config live reload library for Go apps and tests. Embed directly into your app
 -  **[multi-env-cli](https://www.npmjs.com/package/multi-env-cli)** - Hot-editable multi-instance environment manager for Node.js projects.
 -  **[next-component-analyzer](https://www.npmjs.com/package/next-component-analyzer)** - CLI tool that analyzes Next.js components and suggests whether they should be Server or Client components.
